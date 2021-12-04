@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LongestCommonPrefix
 {
@@ -24,6 +25,7 @@ namespace LongestCommonPrefix
         {
             string[] strarr = new string[] { "apple", "ape", "april" };
             Console.WriteLine("Longest common prefix is  "+ LongestCPrefic(strarr));
+            
         }
     }
 }
