@@ -1,0 +1,4 @@
+1. Create integer variable height
+2. Prompt user for height and save the input in height int variable
+3. If height < 1 or height > 8 repeat step 2
+4.iterate from 1 to height and print # , each iteration times and the print newline character at the end of each iteration
